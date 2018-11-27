@@ -12,7 +12,7 @@ var marketDataHeader;
 //})
 var cards = require('./data/cards.json')['cards']
 
-var testText = require('./testText.json')
+//var testText = require('./testText.json')
 
 var fs = require('fs');
 
